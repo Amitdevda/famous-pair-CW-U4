@@ -13,7 +13,7 @@
   },
   "name": "cleanshoes",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
